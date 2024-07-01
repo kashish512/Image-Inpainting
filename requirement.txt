@@ -1,0 +1,10 @@
+torch
+numpy
+Pillow
+git+https://github.com/luca-medeiros/lang-segment-anything.git
+diffusers
+transformers
+accelerate
+scipy
+safetensors
+streamlit
