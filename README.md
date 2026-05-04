@@ -5,7 +5,7 @@ This project showcases a method for object detection, segmentation, and inpainti
 # Installation
 pip install -r requirements.txt
 
-# Local Deployment using streamlit
+# Local hosting using streamlit
 streamlit run app.py
 
 <img width="902" height="847" alt="Screenshot 2026-05-05 002404" src="https://github.com/user-attachments/assets/d150a47e-797f-40e3-b378-68171898b00f" />
